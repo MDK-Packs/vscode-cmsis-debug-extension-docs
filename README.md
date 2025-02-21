@@ -1,2 +1,2 @@
-# vscode-cmsis-debig-extension-docs
+# CMSIS Debug Extension Documention
 Temporary repo for the CMSIS Debug extension docs.
